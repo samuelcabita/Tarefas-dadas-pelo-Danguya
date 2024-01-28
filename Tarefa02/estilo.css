@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+
+}
+.card-center{
+    background-color: #000;
+    color: #fff;
+    width: 390px;
+    height: 70px;
+    border-radius: 20px;
+    
+}
+.card-center{
+    display: flex;
+    float: left;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#soma{
+    background-color: rgb(176, 116, 236);
+    padding:5px 10px;
+    border-radius: 5px;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+p{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+}
+#voltar{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+
